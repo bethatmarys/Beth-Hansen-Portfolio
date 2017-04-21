@@ -1,4 +1,17 @@
-.columns{
+.columns {
   width: 300px;
   float: left;
+}
+
+.strong {
+  font-weight: bolder;
+  ;
+}
+
+.boxed {
+  width: 550px;
+  padding: 20px;
+  margin: 50px 50px 50px 50px;
+  background-color: yellow;
+  align-content: center;
 }
