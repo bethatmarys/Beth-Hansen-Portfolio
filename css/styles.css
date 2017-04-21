@@ -29,7 +29,12 @@
   align-content: center;
 }
 
-.em {
-  font-family: monospace;
-  font-weight: bold;
+.footnote {
+  text-align: center;
+}
+
+.sidebar {
+    float: right;
+    height: auto;
+    background-color: grey
 }
