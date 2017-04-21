@@ -5,13 +5,31 @@
 
 .strong {
   font-weight: bolder;
-  ;
+  font-family: monospace;
+  font-size: 25px;
+}
+
+.stronger {
+  font-weight: bolder;
+  font-family: monospace;
+  font-size: 35px;
+}
+
+.strongest {
+  font-weight: bolder;
+  font-family: monospace;
+  font-size: 45px;
 }
 
 .boxed {
   width: 550px;
   padding: 20px;
   margin: 50px 50px 50px 50px;
-  background-color: yellow;
+  background-color: grey;
   align-content: center;
+}
+
+.em {
+  font-family: monospace;
+  font-weight: bold;
 }
