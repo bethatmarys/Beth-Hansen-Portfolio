@@ -2,10 +2,10 @@ body {
     background-color: #d3d3d3;
 }
 
-.columns {
+/*.columns {
   width: 300px;
   float: left;
-}
+}*/
 
 .strong {
   font-weight: bolder;

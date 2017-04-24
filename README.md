@@ -8,6 +8,8 @@
 
 _{This application was made by a student at Epicodus who is learning how to use HTML, CSS, Bootstrap and other techniques.  }_
 
+View the live website here: [link](htttp://bethatmarys.github.io/Beth-Hansen-Portfolio)
+
 ## Setup/Installation Requirements
 
 * _No set up required_
